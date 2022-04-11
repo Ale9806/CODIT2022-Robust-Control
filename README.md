@@ -1,4 +1,5 @@
 # CODIT2022-Robust-Control
 
 
-[![Everything Is AWESOME]()](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=PjNMoPKNDB4&ab_channel=EduardoGarcia)
+<img align="center" width="480"  src="https://github.com/Ale9806/CODIT2022-Robust-Control/blob/main/Robotsimulation/videos/Comparison.gif">
+
